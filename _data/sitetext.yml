@@ -49,30 +49,25 @@ en: &DEFAULT_EN
         desc: "Comenzamos con pasión y dedicación, creando productos únicos y deliciosos."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Crecimiento continuo"
+        year: "2011-2015"
+        desc: "Abrimos nuevas sucursales y ampliamos nuestro menú."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Expansión digital"
+        year: "2023"
+        desc: "Lanzamos nuestra tienda en línea para llevar dulzura a más hogares."
         image: assets/img/timeline/1.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/1.jpg
-        alt:
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
+    title: "Sobre Nosotros"
+    text: "Nuestra historia y misión"
+    body:  "Somos apasionados por crear momentos dulces. Desde pasteles personalizados hasta catering, cada producto está hecho con amor y detalle."
+    section: sobre-nosotros
 
   clients:
     section: clients
@@ -208,30 +203,25 @@ es: &DEFAULT_ES
         desc: "Comenzamos con pasión y dedicación, creando productos únicos y deliciosos."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Una Agencia nace"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Crecimiento continuo"
+        year: "2011-2015"
+        desc: "Abrimos nuevas sucursales y ampliamos nuestro menú."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "La plantilla Jekyll es creada"
-        year: "2019"
-        desc: "Ravi Riley convirtió Agency, una plantilla basada en Bootstrap, en una plantilla de Jekyll. La plantilla Jekyll puede ser instalada commo una gema de Ruby (Ruby gem) o remotamente. Para más información, visite la documentación."
+      - title: "Expansión digital"
+        year: "2023"
+        desc: "Lanzamos nuestra tienda en línea para llevar dulzura a más hogares."
         image: assets/img/timeline/1.jpg
         alt: image alt text
-      - title: "Título"
-        year: "2009-2011"
-        desc: "Su descripción aquí, **Markdown** es soportado completamente."
-        image: assets/img/timeline/1.jpg
-        alt:
         # you can enforce the alignment
         align: right
     end: "¡Se parte <br> de Nuestra <br> Historia!"
 
   about:
-    title: "Sobre nosotros"
-    text: "nuestra historia"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: nosotros
+    title: "Sobre Nosotros"
+    text: "Nuestra historia y misión"
+    body:  "Somos apasionados por crear momentos dulces. Desde pasteles personalizados hasta catering, cada producto está hecho con amor y detalle."
+    section: sobre-nosotros
 
   clients:
     section: clientes
@@ -363,30 +353,25 @@ de: &DEFAULT_DE
         desc: "Comenzamos con pasión y dedicación, creando productos únicos y deliciosos."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Gründung der Firma"
-        year: "März 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Crecimiento continuo"
+        year: "2011-2015"
+        desc: "Abrimos nuevas sucursales y ampliamos nuestro menú."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Das Jekyll-Thema wurde erstellt"
-        year: "2019"
-        desc: "Ravi Riley wandelte Agency, ein auf Bootstrap basierendes Thema, in ein Jekyll-Thema um. Man kann das Jekyll-Thema als Ruby-Gem oder remotely installieren. Für mehr Informationen, schauen Sie sich die Dokumentation an."
+      -- title: "Expansión digital"
+        year: "2023"
+        desc: "Lanzamos nuestra tienda en línea para llevar dulzura a más hogares."
         image: assets/img/timeline/1.jpg
-        alt: Bildbeschreibung
-      - title: "Titel"
-        year: "2009-2011"
-        desc: "Hier können Sie etwas mit **Markdown** einfügen."
-        image: assets/img/timeline/1.jpg
-        alt:
+        alt: image alt text
         # you can enforce the alignment
         align: right
     end: "Seien Sie <br> Teil unserer <br> Geschichte!"
 
   about:
-    title: "Über uns"
-    text: "Unsere Geschichte."
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: Ueber
+    title: "Sobre Nosotros"
+    text: "Nuestra historia y misión"
+    body:  "Somos apasionados por crear momentos dulces. Desde pasteles personalizados hasta catering, cada producto está hecho con amor y detalle."
+    section: sobre-nosotros
 
   clients:
     section: Kunden
