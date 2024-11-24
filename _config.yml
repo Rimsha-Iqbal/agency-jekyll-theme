@@ -20,9 +20,9 @@ title      : Tun Tun Panadería
 email      : rimiqbal777@gmail.com #this is also the email contact forms will go to
 description: "Bienvenido a Tun Tun Panadería, donde cada bocado está hecho con amor. Ofrecemos productos frescos, panes artesanales, pasteles personalizados y catering para eventos. Hechos con los mejores ingredientes locales, nuestros productos te brindarán una experiencia única y deliciosa."
 author     : Rimsha Iqbal
-logo:     #optional, defaults to site title
-   path: /assets/img/clients/android-chrome-192x192.png
-   height: 60 #height in px, defaults to 52px
+#logo:     #optional, defaults to site title
+ #  path: /assets/img/clients/android-chrome-192x192.png
+  # height: 60 #height in px, defaults to 52px
 
 locale: "es-ES" # See available languages in _data/sitetext.yml
 
