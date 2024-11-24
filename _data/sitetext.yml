@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         desc: "Ofrecemos pasteles totalmente personalizados para cualquier ocasión. Elige el sabor, el diseño y los ingredientes según tus preferencias.  
         Si tienes alergias o restricciones alimentarias, podemos adaptarlo para que sea completamente seguro para ti.  
         ¡Haz tu pedido y celebra con un pastel único!"
-        icon: fas fa-laptop
+        icon: fa-solid fa-cookie-bite
       - title: "[lista de tipo de pasteles](https://en.wikipedia.org/wiki/List_of_pastries)"
         desc: "Puedes hacerte una idea sobre repostería en esta página web."
         icon: fab fa-markdown
@@ -186,7 +186,7 @@ es: &DEFAULT_ES
         desc: "Ofrecemos pasteles totalmente personalizados para cualquier ocasión. Elige el sabor, el diseño y los ingredientes según tus preferencias.  
         Si tienes alergias o restricciones alimentarias, podemos adaptarlo para que sea completamente seguro para ti.  
         ¡Haz tu pedido y celebra con un pastel único!"
-        icon: fas fa-laptop
+        icon: fa-solid fa-cookie-bite
       - title: "[lista de tipo de pasteles](https://en.wikipedia.org/wiki/List_of_pastries)"
         desc: "Puedes hacerte una idea sobre repostería en esta página web."
         icon: fab fa-markdown
@@ -339,7 +339,7 @@ de: &DEFAULT_DE
         desc: "Ofrecemos pasteles totalmente personalizados para cualquier ocasión. Elige el sabor, el diseño y los ingredientes según tus preferencias.  
         Si tienes alergias o restricciones alimentarias, podemos adaptarlo para que sea completamente seguro para ti.  
         ¡Haz tu pedido y celebra con un pastel único!"
-        icon: fas fa-laptop
+        icon: fa-solid fa-cookie-bite
       - title: "[Markdown](https://de.wikipedia.org/wiki/Markdown)"
         desc: "Hier können Sie etwas mit **Markdown** einfügen."
         icon: fab fa-markdown
