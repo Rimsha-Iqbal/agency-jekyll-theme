@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         desc: "Ofrecemos pasteles totalmente personalizados para cualquier ocasión. Elige el sabor, el diseño y los ingredientes según tus preferencias.  
         Si tienes alergias o restricciones alimentarias, podemos adaptarlo para que sea completamente seguro para ti.  
         ¡Haz tu pedido y celebra con un pastel único!"
-        icon: fa-solid fa-cookie-bite
+        icon: fas fa-cookie-bite
       - title: "[lista de tipo de pasteles](https://en.wikipedia.org/wiki/List_of_pastries)"
         desc: "Puedes hacerte una idea sobre repostería en esta página web."
         icon: fab fa-markdown
@@ -90,14 +90,15 @@ en: &DEFAULT_EN
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
 
-  title: "Nuestro Equipo"
-    text: "Conoce a las personas detrás de nuestra pasión."
-    subtext: "Somos una familia que comparte la misma misión: endulzar tus momentos especiales con productos hechos con amor y dedicación."" 
-    section: Euipo
+  team:
+    title: "OUR AMAZING TEAM"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    section: team
     people:
-      - name: "Rimsha Iqbal"
-        role: "Panadero Principal/Pastelero"
-        image: ../assets/img/team/1.png
+      - name: "Kay Garland"
+        role: "Lead Designer"
+        image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -105,8 +106,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "María López"
-        role: "Decorador de Pasteles"
+      - name: "Larry Parker"
+        role: "Lead Marketer"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -115,9 +116,9 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Carlos Pérez"
-        role: "Panadero Asistente"
-        image: ../assets/img/team/3.jpg
+      - name: "Diana Perterson"
+        role: "Lead Developer"
+        image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -127,9 +128,9 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contáctanos"
-    text: "¿Tienes alguna pregunta? Escríbenos."
-    section: contacto
+    title: "Contact Us"
+    text: "¿Tienes alguna pregunta? Escríbenos"
+    section: contact
     name: "Name*"
     name-validation: "Please enter your name."
     email: "Email*"
@@ -185,7 +186,7 @@ es: &DEFAULT_ES
         desc: "Ofrecemos pasteles totalmente personalizados para cualquier ocasión. Elige el sabor, el diseño y los ingredientes según tus preferencias.  
         Si tienes alergias o restricciones alimentarias, podemos adaptarlo para que sea completamente seguro para ti.  
         ¡Haz tu pedido y celebra con un pastel único!"
-        icon: fa-solid fa-cookie-bite
+        icon: fas fa-cookie-bite
       - title: "[lista de tipo de pasteles](https://en.wikipedia.org/wiki/List_of_pastries)"
         desc: "Puedes hacerte una idea sobre repostería en esta página web."
         icon: fab fa-markdown
@@ -246,14 +247,15 @@ es: &DEFAULT_ES
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
 
-  title: "Nuestro Equipo"
-    text: "Conoce a las personas detrás de nuestra pasión."
-    subtext: "Somos una familia que comparte la misma misión: endulzar tus momentos especiales con productos hechos con amor y dedicación."" 
-    section: Euipo
+  team:
+    title: "NUESTRO INCREÍBLE EQUIPO"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    section: equipo
     people:
-      - name: "Rimsha Iqbal"
-        role: "Panadero Principal/Pastelero"
-        image: ../assets/img/team/1.png
+      - name: "Kay Garland"
+        role: "Lead Designer"
+        image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -261,8 +263,8 @@ es: &DEFAULT_ES
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "María López"
-        role: "Decorador de Pasteles"
+      - name: "Larry Parker"
+        role: "Lead Marketer"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -271,9 +273,9 @@ es: &DEFAULT_ES
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Carlos Pérez"
-        role: "Panadero Asistente"
-        image: ../assets/img/team/3.jpg
+      - name: "Diana Perterson"
+        role: "Lead Developer"
+        image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -283,8 +285,8 @@ es: &DEFAULT_ES
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contáctanos"
-    text: "¿Tienes alguna pregunta? Escríbenos."
+    title: "Contáctenos"
+    text: "¿Tienes alguna pregunta? Escríbenos"
     section: contacto
     name: "Nombre*"
     name-validation: "Por favor ingrese su nombre."
@@ -337,7 +339,7 @@ de: &DEFAULT_DE
         desc: "Ofrecemos pasteles totalmente personalizados para cualquier ocasión. Elige el sabor, el diseño y los ingredientes según tus preferencias.  
         Si tienes alergias o restricciones alimentarias, podemos adaptarlo para que sea completamente seguro para ti.  
         ¡Haz tu pedido y celebra con un pastel único!"
-        icon: fa-solid fa-cookie-bite
+        icon: fas fa-cookie-bite
       - title: "[Markdown](https://de.wikipedia.org/wiki/Markdown)"
         desc: "Hier können Sie etwas mit **Markdown** einfügen."
         icon: fab fa-markdown
@@ -437,8 +439,8 @@ de: &DEFAULT_DE
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contáctanos"
-    text: "¿Tienes alguna pregunta? Escríbenos."
+    title: "Kontakt"
+    text: "¿Tienes alguna pregunta? Escríbenos"
     section: Kontakt
     name: "Name*"
     name-validation: "Geben Sie einen Namen ein."
