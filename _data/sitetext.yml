@@ -64,10 +64,10 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "Sobre Nosotros"
-    text: "Nuestra historia y misión"
-    body:  "Somos apasionados por crear momentos dulces. Desde pasteles personalizados hasta catering, cada producto está hecho con amor y detalle."
-    section: sobre-nosotros
+    title: "About Us"
+    text: "our story"
+    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    section: about
 
   clients:
     section: clients
@@ -88,10 +88,10 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "Nuestro Equipo"
-    text: "Conoce a las personas detrás de nuestra pasión."
-    subtext: "Somos una familia que comparte la misma misión: endulzar tus momentos especiales con productos hechos con amor y dedicación"
-    section: Equipo
+    title: "OUR AMAZING TEAM"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    section: team
     people:
       - name: "Kay Garland"
         role: "Lead Designer"
@@ -218,10 +218,10 @@ es: &DEFAULT_ES
     end: "¡Se parte <br> de Nuestra <br> Historia!"
 
   about:
-    title: "Sobre Nosotros"
-    text: "Nuestra historia y misión"
-    body:  "Somos apasionados por crear momentos dulces. Desde pasteles personalizados hasta catering, cada producto está hecho con amor y detalle."
-    section: sobre-nosotros
+    title: "Sobre nosotros"
+    text: "nuestra historia"
+    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    section: nosotros
 
   clients:
     section: clientes
@@ -242,9 +242,9 @@ es: &DEFAULT_ES
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "Nuestro Equipo"
-    text: "Conoce a las personas detrás de nuestra pasión."
-    subtext: "Somos una familia que comparte la misma misión: endulzar tus momentos especiales con productos hechos con amor y dedicación"
+    title: "NUESTRO INCREÍBLE EQUIPO"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: equipo
     people:
       - name: "Kay Garland"
@@ -358,20 +358,21 @@ de: &DEFAULT_DE
         desc: "Abrimos nuevas sucursales y ampliamos nuestro menú."
         image: assets/img/timeline/1.jpg
         alt:
-      -- title: "Expansión digital"
+      - title: "Expansión digital"
         year: "2023"
         desc: "Lanzamos nuestra tienda en línea para llevar dulzura a más hogares."
         image: assets/img/timeline/1.jpg
         alt: image alt text
+    
         # you can enforce the alignment
         align: right
     end: "Seien Sie <br> Teil unserer <br> Geschichte!"
 
   about:
-    title: "Sobre Nosotros"
-    text: "Nuestra historia y misión"
-    body:  "Somos apasionados por crear momentos dulces. Desde pasteles personalizados hasta catering, cada producto está hecho con amor y detalle."
-    section: sobre-nosotros
+    title: "Über uns"
+    text: "Unsere Geschichte."
+    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    section: Ueber
 
   clients:
     section: Kunden
@@ -392,10 +393,10 @@ de: &DEFAULT_DE
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "Nuestro Equipo"
-    text: "Conoce a las personas detrás de nuestra pasión."
-    subtext: "Somos una familia que comparte la misma misión: endulzar tus momentos especiales con productos hechos con amor y dedicación"
-    section: equipo
+    title: "Unser großartiges Team"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    section: Team
     people:
       - name: "Kay Garland"
         role: "Chef-Designer"
