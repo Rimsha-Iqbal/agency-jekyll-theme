@@ -127,9 +127,9 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
-    section: contact
+    title: "Contáctanos"
+    text: "¿Tienes alguna pregunta? Escríbenos."
+    section: contacto
     name: "Name*"
     name-validation: "Please enter your name."
     email: "Email*"
@@ -283,8 +283,8 @@ es: &DEFAULT_ES
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contáctenos"
-    text: "Lorem ipsum or call 123456789"
+    title: "Contáctanos"
+    text: "¿Tienes alguna pregunta? Escríbenos."
     section: contacto
     name: "Nombre*"
     name-validation: "Por favor ingrese su nombre."
@@ -437,8 +437,8 @@ de: &DEFAULT_DE
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Kontakt"
-    text: "Kontaktieren Sie uns."
+    title: "Contáctanos"
+    text: "¿Tienes alguna pregunta? Escríbenos."
     section: Kontakt
     name: "Name*"
     name-validation: "Geben Sie einen Namen ein."
