@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Descubre lo que ofrecemos"
     section: services
     list:
       - title: "Servicio de Catering"
@@ -177,7 +177,7 @@ es: &DEFAULT_ES
 
   services:
     title: "Servicios"
-    text: "Lorem ipsum"
+    text: "Descubre lo que ofrecemos"
     section: servicios
     list:
       - title: "Comercio Electrónico"
@@ -332,7 +332,7 @@ de: &DEFAULT_DE
 
   services:
     title: "Leistungen"
-    text: "Was wir anbieten."
+    text: "Descubre lo que ofrecemos."
     section: Leistungen
     list:
       - title: "E-Commerce"
