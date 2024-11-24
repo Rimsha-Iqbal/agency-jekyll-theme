@@ -38,9 +38,9 @@ en: &DEFAULT_EN
     closebutton: "Cerrar Proyecto"
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
-    section: timeline
+    title: "Nuestra Historia"
+    text: "Un vistazo a nuestro camino."
+    section: cronologia
     # left is the default
     #start_align: "left"
     events:
@@ -352,9 +352,9 @@ de: &DEFAULT_DE
     closebutton: "Cerrar Proyecto"
 
   timeline:
-    title: "Geschichte"
-    text: "Lorem ipsum timeline"
-    section: Geschichte
+    title: "Nuestra Historia"
+    text: "Un vistazo a nuestro camino."
+    section: cronologia
     # left is the default
     #start_align: "left"
     events:
