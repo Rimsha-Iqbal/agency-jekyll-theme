@@ -64,10 +64,10 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
+    title: "Sobre Nosotros"
+    text: "Nuestra historia y misión"
+    body: "Somos apasionados por crear momentos dulces. Desde pasteles personalizados hasta catering, cada producto está hecho con amor y detalle."
+    section: sobre-nosotros
 
   clients:
     section: clients
@@ -219,9 +219,9 @@ es: &DEFAULT_ES
 
   about:
     title: "Sobre nosotros"
-    text: "nuestra historia"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: nosotros
+    text: "nuestra historia y misión"
+    body: "Somos apasionados por crear momentos dulces. Desde pasteles personalizados hasta catering, cada producto está hecho con amor y detalle."
+    section: sobre-nosotros
 
   clients:
     section: clientes
@@ -369,10 +369,10 @@ de: &DEFAULT_DE
     end: "Seien Sie <br> Teil unserer <br> Geschichte!"
 
   about:
-    title: "Über uns"
-    text: "Unsere Geschichte."
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: Ueber
+    title: "Sobre Nosotros"
+    text: "Nuestra historia y misión"
+    body: "Somos apasionados por crear momentos dulces. Desde pasteles personalizados hasta catering, cada producto está hecho con amor y detalle."
+    section: sobre-nosotros
 
   clients:
     section: Kunden
