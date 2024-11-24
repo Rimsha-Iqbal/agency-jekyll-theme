@@ -175,94 +175,95 @@ es: &DEFAULT_ES
     title: "Servicios"
     text: "Lorem ipsum"
     section: servicios
-    title: "Services"
-    text: "Descubre lo que ofrecemos"
-    section: services
     list:
-      - title: "Servicio de Catering"
-        desc: "Lleva un toque dulce a tus eventos con nuestras bandejas de postres."
+      - title: "Comercio Electrónico"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Pasteles Personalizados"
-        desc: "Ofrecemos pasteles totalmente personalizados para cualquier ocasión. Elige el sabor, el diseño y los ingredientes según tus preferencias. Si tienes alergias o restricciones alimentarias, podemos adaptarlo para que sea completamente seguro para ti. ¡Haz tu pedido y celebra con un pastel único!"
-        icon: fas fa-birthday-cake
-      - title: "[lista de tipo de pasteles](https://en.wikipedia.org/wiki/List_of_pastries)"
-        desc: "Puedes hacerte una idea sobre repostería en esta página web."
-        icon: fas fa-lightbulb
+      - title: "Diseño Responsivo"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-laptop
+      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Su descripción aquí, soporte completo de **Markdown**"
+        icon: fab fa-markdown
 
-  title: "Portfolio"
-    text: "Aquí te mostramos algunas de nuestras creaciones más destacadas. Desde pasteles personalizados hasta postres para eventos, cada uno de nuestros productos está hecho con cariño y atención al detalle."
-    section: portfolio
-    closebutton: "Close"
+  portfolio:
+    title: "Portafolio"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: portafolio
+    closebutton: "Cerrar Proyecto"
 
   timeline:
-    title: "Nuestra Historia"
-    text: "Un vistazo a nuestro camino."
+    title: "Cronología"
+    text: "Lorem ipsum timeline"
     section: cronologia
     # left is the default
     #start_align: "left"
     events:
-      - title: "Nuestros humildes comienzos"
+      - title: "Nuestro Humilde Comienzo"
         year: "2009-2011"
-        desc: "Comenzamos con pasión y dedicación, creando productos únicos y deliciosos."
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
-        alt: Imagen de nuestros comienzos
-      - title: "Crecimiento continuo"
-        year: "2011-2015"
-        desc: "Abrimos nuevas sucursales y ampliamos nuestro menú."
+        alt:
+      - title: "Una Agencia nace"
+        year: "March 2011"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Expansión digital"
-        year: "2023"
-        desc: "Lanzamos nuestra tienda en línea para llevar dulzura a más hogares."
+      - title: "La plantilla Jekyll es creada"
+        year: "2019"
+        desc: "Ravi Riley convirtió Agency, una plantilla basada en Bootstrap, en una plantilla de Jekyll. La plantilla Jekyll puede ser instalada commo una gema de Ruby (Ruby gem) o remotamente. Para más información, visite la documentación."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      
+      - title: "Título"
+        year: "2009-2011"
+        desc: "Su descripción aquí, **Markdown** es soportado completamente."
+        image: assets/img/timeline/4.jpg
+        alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "¡Se parte <br> de Nuestra <br> Historia!"
 
   about:
-    title: "Sobre Nosotros"
-    text: "Nuestra historia y misión"
-    body: "Somos apasionados por crear momentos dulces. Desde pasteles personalizados hasta catering, cada producto está hecho con amor y detalle."
-    section: sobre-nosotros
+    title: "Sobre nosotros"
+    text: "nuestra historia"
+    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    section: nosotros
 
-  #clients:
-   # section: clients
-    #max-height: 100px
-    #horizontal-scrolling: "" #"yes/no"
-    #list:
-      #- title: "envato"
-        #url: https://github.com/raviriley/agency-jekyll-theme
-        #logo: assets/img/clients/envato.jpg
-      #- title: "designmodo"
-       # url: https://github.com/Rimsha-Iqbal/agency-jekyll-theme
-      #  logo: assets/img/clients/designmodo.jpg
-      #- title: "themeforest"
-        #url: https://github.com/raviriley/agency-jekyll-theme
-        #logo: assets/img/clients/themeforest.jpg
-      #- title: "Creative Market"
-        #url: https://github.com/raviriley/agency-jekyll-theme
-        #logo: assets/img/clients/creative-market.jpg
-
+  clients:
+    section: clientes
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
+    list:
+      - title: "envato"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/envato.jpg
+      - title: "designmodo"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/designmodo.jpg
+      - title: "themeforest"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/themeforest.jpg
+      - title: "Creative Market"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "Nuestro Equipo"
-    text: Conoce a las personas detrás de nuestra pasión."
+    title: "NUESTRO INCREÍBLE EQUIPO"
+    text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
+    section: equipo
     people:
-      - name: "Rimsha Iqbal"
-        role: "pastelera"
+      - name: "Kay Garland"
+        role: "Lead Designer"
         image: assets/img/team/500x500.jpg
         social:
-          - url: itx-ri
+          - url: https://twitter.com
             icon: fab fa-twitter
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "María López"
+      - name: "Larry Parker"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
         social:
@@ -272,9 +273,9 @@ es: &DEFAULT_ES
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Carlos Pérez"
-        role: "jefe de pastelería"
-        image: assets/img/team/3
+      - name: "Diana Perterson"
+        role: "Lead Developer"
+        image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -284,18 +285,18 @@ es: &DEFAULT_ES
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contáctanos"
-    text: "¿Tienes alguna pregunta? Escríbenos."
-    section: contact
-    name: "NOMBRE*"
-    name-validation: "Por favor ingresa tu nombre."
-    email: "CORREO*"
-    email-validation: "Por favor ingresa tu correo electrónico."
-    phone: "Número de Teléfono"
-    phone-validation: "Por favor ingresa tu número de teléfono."
+    title: "Contáctenos"
+    text: "Lorem ipsum or call 123456789"
+    section: contacto
+    name: "Nombre*"
+    name-validation: "Por favor ingrese su nombre."
+    email: "Correo Electrónico*"
+    email-validation: "Por favor ingrese su correo electrónico."
+    phone: "Número Telefónico*"
+    phone-validation: "Por favor ingrese su número telefónico."
     message: "Mensaje*"
-    message-validation: "Por favor ingresa un mensaje"
-    subject: "Consulta desde el formulario"
+    message-validation: "Por favor escriba un mensaje."
+    subject: "Envío del formulario de contacto"
     submit: "Enviar Mensaje"
 
   footer:
@@ -320,7 +321,7 @@ es-CO:
 # -----------------
 de: &DEFAULT_DE
   header:
-    title: Bienvenido a Tun Tun Panadería
+    title: Endulzando tus momentos, un pastel a la vez
     text: Endulzando tus momentos, un pastel a la vez
     button: Mehr erfahren
     buttonlink: "#Angebote"
@@ -329,96 +330,96 @@ de: &DEFAULT_DE
     title: "Leistungen"
     text: "Was wir anbieten."
     section: Leistungen
-    title: "Services"
-    text: "Descubre lo que ofrecemos"
-    section: services
     list:
-      - title: "Servicio de Catering"
-        desc: "Lleva un toque dulce a tus eventos con nuestras bandejas de postres."
+      - title: "E-Commerce"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Pasteles Personalizados"
-        desc: "Ofrecemos pasteles totalmente personalizados para cualquier ocasión. Elige el sabor, el diseño y los ingredientes según tus preferencias. Si tienes alergias o restricciones alimentarias, podemos adaptarlo para que sea completamente seguro para ti. ¡Haz tu pedido y celebra con un pastel único!"
-        icon: fas fa-birthday-cake
-      - title: "[lista de tipo de pasteles](https://en.wikipedia.org/wiki/List_of_pastries)"
-        desc: "Puedes hacerte una idea sobre repostería en esta página web."
-        icon: fas fa-lightbulb
+      - title: "Responsive Design"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-laptop
+      - title: "[Markdown](https://de.wikipedia.org/wiki/Markdown)"
+        desc: "Hier können Sie etwas mit **Markdown** einfügen."
+        icon: fab fa-markdown
 
-
-  title: "Portfolio"
-    text: "Aquí te mostramos algunas de nuestras creaciones más destacadas. Desde pasteles personalizados hasta postres para eventos, cada uno de nuestros productos está hecho con cariño y atención al detalle."
-    section: portfolio
-    closebutton: "Close"
+  portfolio:
+    title: "Portfolio"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: Portfolio
+    closebutton: "Schließen"
 
   timeline:
-    title: "Nuestra Historia"
-    text: "Un vistazo a nuestro camino."
-    section: cronologia
+    title: "Geschichte"
+    text: "Lorem ipsum timeline"
+    section: Geschichte
     # left is the default
     #start_align: "left"
     events:
-      - title: "Nuestros humildes comienzos"
+      - title: "Unsere Anfänge"
         year: "2009-2011"
-        desc: "Comenzamos con pasión y dedicación, creando productos únicos y deliciosos."
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
-        alt: Imagen de nuestros comienzos
-      - title: "Crecimiento continuo"
-        year: "2011-2015"
-        desc: "Abrimos nuevas sucursales y ampliamos nuestro menú."
+        alt:
+      - title: "Gründung der Firma"
+        year: "März 2011"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Expansión digital"
-        year: "2023"
-        desc: "Lanzamos nuestra tienda en línea para llevar dulzura a más hogares."
+      - title: "Das Jekyll-Thema wurde erstellt"
+        year: "2019"
+        desc: "Ravi Riley wandelte Agency, ein auf Bootstrap basierendes Thema, in ein Jekyll-Thema um. Man kann das Jekyll-Thema als Ruby-Gem oder remotely installieren. Für mehr Informationen, schauen Sie sich die Dokumentation an."
         image: assets/img/timeline/3.jpg
-        alt: image alt text
-      
+        alt: Bildbeschreibung
+      - title: "Titel"
+        year: "2009-2011"
+        desc: "Hier können Sie etwas mit **Markdown** einfügen."
+        image: assets/img/timeline/4.jpg
+        alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Seien Sie <br> Teil unserer <br> Geschichte!"
 
   about:
-    title: "Sobre Nosotros"
-    text: "Nuestra historia y misión"
-    body: "Somos apasionados por crear momentos dulces. Desde pasteles personalizados hasta catering, cada producto está hecho con amor y detalle."
-    section: sobre-nosotros
+    title: "Über uns"
+    text: "Unsere Geschichte."
+    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    section: Ueber
 
-  #clients:
-   # section: clients
-    #max-height: 100px
-    #horizontal-scrolling: "" #"yes/no"
-    #list:
-      #- title: "envato"
-        #url: https://github.com/raviriley/agency-jekyll-theme
-        #logo: assets/img/clients/envato.jpg
-      #- title: "designmodo"
-       # url: https://github.com/Rimsha-Iqbal/agency-jekyll-theme
-      #  logo: assets/img/clients/designmodo.jpg
-      #- title: "themeforest"
-        #url: https://github.com/raviriley/agency-jekyll-theme
-        #logo: assets/img/clients/themeforest.jpg
-      #- title: "Creative Market"
-        #url: https://github.com/raviriley/agency-jekyll-theme
-        #logo: assets/img/clients/creative-market.jpg
-
+  clients:
+    section: Kunden
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
+    list:
+      - title: "envato"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/envato.jpg
+      - title: "designmodo"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/designmodo.jpg
+      - title: "themeforest"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/themeforest.jpg
+      - title: "Creative Market"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "Nuestro Equipo"
-    text: Conoce a las personas detrás de nuestra pasión."
+    title: "Unser großartiges Team"
+    text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
+    section: Team
     people:
-      - name: "Rimsha Iqbal"
-        role: "pastelera"
+      - name: "Kay Garland"
+        role: "Chef-Designer"
         image: assets/img/team/500x500.jpg
         social:
-          - url: itx-ri
+          - url: https://twitter.com
             icon: fab fa-twitter
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "María López"
-        role: "Lead Marketer"
+      - name: "Larry Parker"
+        role: "Chef der Werbeabteilung"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -427,9 +428,9 @@ de: &DEFAULT_DE
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Carlos Pérez"
-        role: "jefe de pastelería"
-        image: assets/img/team/3
+      - name: "Diana Perterson"
+        role: "Chef-Programmiererin"
+        image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -439,22 +440,22 @@ de: &DEFAULT_DE
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contáctanos"
-    text: "¿Tienes alguna pregunta? Escríbenos."
-    section: contact
-    name: "NOMBRE*"
-    name-validation: "Por favor ingresa tu nombre."
-    email: "CORREO*"
-    email-validation: "Por favor ingresa tu correo electrónico."
-    phone: "Número de Teléfono"
-    phone-validation: "Por favor ingresa tu número de teléfono."
-    message: "Mensaje*"
-    message-validation: "Por favor ingresa un mensaje"
-    subject: "Consulta desde el formulario"
-    submit: "Enviar Mensaje"
+    title: "Kontakt"
+    text: "Kontaktieren Sie uns."
+    section: Kontakt
+    name: "Name*"
+    name-validation: "Geben Sie einen Namen ein."
+    email: "E-Mail*"
+    email-validation: "Geben Sie Ihre E-Mail-Addresse ein."
+    phone: "Telefonnummer*"
+    phone-validation: "Geben Sie Ihre Telefonnummer ein."
+    message: "Nachricht*"
+    message-validation: "Schreiben Sie etwas..."
+    subject: "Kontakt-Formular Bestätigung"
+    submit: "Nachricht absenden"
 
   footer:
-    legal: "Política de Privacidad"
+    legal: "Datenschutzerklärung"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
