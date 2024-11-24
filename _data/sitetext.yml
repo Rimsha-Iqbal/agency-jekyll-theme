@@ -193,8 +193,8 @@ es: &DEFAULT_ES
     closebutton: "CERRAR"
 
   timeline:
-    title: "Cronología"
-    text: "Lorem ipsum timeline"
+    title: "Nuestra Historia"
+    text: "Un vistazo a nuestro camino."
     section: cronologia
     # left is the default
     #start_align: "left"
@@ -348,9 +348,9 @@ de: &DEFAULT_DE
     closebutton: "Schließen"
 
   timeline:
-    title: "Geschichte"
-    text: "Lorem ipsum timeline"
-    section: Geschichte
+    title: "Nuestra Historia"
+    text: "Un vistazo a nuestro camino."
+    section: cronologia
     # left is the default
     #start_align: "left"
     events:
