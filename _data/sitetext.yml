@@ -88,10 +88,10 @@ en: &DEFAULT_EN
       #  logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
+    title: "Nuestro Equipo"
+    text: "Conoce a las personas detrás de nuestra pasión."
+    subtext: "Somos una familia que comparte la misma misión: endulzar tus momentos especiales con productos hechos con amor y dedicación"
+    section: Equipo
     people:
       - name: "Kay Garland"
         role: "Lead Designer"
@@ -242,10 +242,10 @@ es: &DEFAULT_ES
     #    logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "NUESTRO INCREÍBLE EQUIPO"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: equipo
+    title: "Nuestro Equipo"
+    text: "Conoce a las personas detrás de nuestra pasión."
+    subtext: "Somos una familia que comparte la misma misión: endulzar tus momentos especiales con productos hechos con amor y dedicación"
+    section: Equipo
     people:
       - name: "Kay Garland"
         role: "Lead Designer"
@@ -392,10 +392,10 @@ de: &DEFAULT_DE
       #  logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "Unser großartiges Team"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: Team
+    title: "Nuestro Equipo"
+    text: "Conoce a las personas detrás de nuestra pasión."
+    subtext: "Somos una familia que comparte la misma misión: endulzar tus momentos especiales con productos hechos con amor y dedicación"
+    section: Equipo
     people:
       - name: "Kay Garland"
         role: "Chef-Designer"
