@@ -69,23 +69,23 @@ en: &DEFAULT_EN
     body:  "Somos apasionados por crear momentos dulces. Desde pasteles personalizados hasta catering, cada producto está hecho con amor y detalle."
     section: sobre-nosotros
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+  #clients:
+   # section: clients
+   # max-height: 100px
+   # horizontal-scrolling: "" #"yes/no"
+   # list:
+    #  - title: "envato"
+     #   url: https://github.com/raviriley/agency-jekyll-theme
+      #  logo: assets/img/clients/envato.jpg
+     # - title: "designmodo"
+      #  url: https://github.com/raviriley/agency-jekyll-theme
+       # logo: assets/img/clients/designmodo.jpg
+    #  - title: "themeforest"
+     #   url: https://github.com/raviriley/agency-jekyll-theme
+      #  logo: assets/img/clients/themeforest.jpg
+    #  - title: "Creative Market"
+     #   url: https://github.com/raviriley/agency-jekyll-theme
+      #  logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "OUR AMAZING TEAM"
@@ -223,23 +223,23 @@ es: &DEFAULT_ES
     body:  "Somos apasionados por crear momentos dulces. Desde pasteles personalizados hasta catering, cada producto está hecho con amor y detalle."
     section: sobre-nosotros
 
-  clients:
-    section: clientes
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+ # clients:
+  #  section: clientes
+   # max-height: 100px
+   # horizontal-scrolling: "" #"yes/no"
+   # list:
+    #  - title: "envato"
+     #   url: https://github.com/raviriley/agency-jekyll-theme
+      #  logo: assets/img/clients/envato.jpg
+    #  - title: "designmodo"
+    #    url: https://github.com/raviriley/agency-jekyll-theme
+    #    logo: assets/img/clients/designmodo.jpg
+    #  - title: "themeforest"
+    #    url: https://github.com/raviriley/agency-jekyll-theme
+    #    logo: assets/img/clients/themeforest.jpg
+    #  - title: "Creative Market"
+    #    url: https://github.com/raviriley/agency-jekyll-theme
+    #    logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "NUESTRO INCREÍBLE EQUIPO"
@@ -373,23 +373,23 @@ de: &DEFAULT_DE
     body:  "Somos apasionados por crear momentos dulces. Desde pasteles personalizados hasta catering, cada producto está hecho con amor y detalle."
     section: sobre-nosotros
 
-  clients:
-    section: Kunden
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+#  clients:
+#    section: Kunden
+ #   max-height: 100px
+  #  horizontal-scrolling: "" #"yes/no"
+  #  list:
+   #   - title: "envato"
+    #    url: https://github.com/raviriley/agency-jekyll-theme
+     #   logo: assets/img/clients/envato.jpg
+     # - title: "designmodo"
+      #  url: https://github.com/raviriley/agency-jekyll-theme
+       # logo: assets/img/clients/designmodo.jpg
+    #  - title: "themeforest"
+     #   url: https://github.com/raviriley/agency-jekyll-theme
+      #  logo: assets/img/clients/themeforest.jpg
+    #  - title: "Creative Market"
+     #   url: https://github.com/raviriley/agency-jekyll-theme
+      #  logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "Unser großartiges Team"
