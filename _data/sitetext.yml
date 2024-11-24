@@ -22,10 +22,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Servicio de Catering"
-        desc: "Lleva un toque dulce a tus eventos con nuestras bandejas de postres."
+        desc: "Lleva un toque dulce a tus eventos con nuestras bandejas de postres.  
+        Puede hacer su pedido en línea utilizando nuestro número de WhatsApp:"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Pasteles Personalizados"
-        desc: "Ofrecemos pasteles totalmente personalizados para cualquier ocasión. Elige el sabor, el diseño y los ingredientes según tus preferencias. Si tienes alergias o restricciones alimentarias, podemos adaptarlo para que sea completamente seguro para ti. ¡Haz tu pedido y celebra con un pastel único!"
+        desc: "Ofrecemos pasteles totalmente personalizados para cualquier ocasión. Elige el sabor, el diseño y los ingredientes según tus preferencias.  
+        Si tienes alergias o restricciones alimentarias, podemos adaptarlo para que sea completamente seguro para ti.  
+        ¡Haz tu pedido y celebra con un pastel único!"
         icon: fas fa-laptop
       - title: "[lista de tipo de pasteles](https://en.wikipedia.org/wiki/List_of_pastries)"
         desc: "Puedes hacerte una idea sobre repostería en esta página web."
@@ -176,10 +179,13 @@ es: &DEFAULT_ES
     section: servicios
     list:
       - title: "Servicio de Catering"
-        desc: "Lleva un toque dulce a tus eventos con nuestras bandejas de postres."
+        desc: "Lleva un toque dulce a tus eventos con nuestras bandejas de postres.  
+        Puede hacer su pedido en línea utilizando nuestro número de WhatsApp:"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Pasteles Personalizados"
-        desc: "Ofrecemos pasteles totalmente personalizados para cualquier ocasión. Elige el sabor, el diseño y los ingredientes según tus preferencias. Si tienes alergias o restricciones alimentarias, podemos adaptarlo para que sea completamente seguro para ti. ¡Haz tu pedido y celebra con un pastel único!"
+        desc: "Ofrecemos pasteles totalmente personalizados para cualquier ocasión. Elige el sabor, el diseño y los ingredientes según tus preferencias.  
+        Si tienes alergias o restricciones alimentarias, podemos adaptarlo para que sea completamente seguro para ti.  
+        ¡Haz tu pedido y celebra con un pastel único!"
         icon: fas fa-laptop
       - title: "[lista de tipo de pasteles](https://en.wikipedia.org/wiki/List_of_pastries)"
         desc: "Puedes hacerte una idea sobre repostería en esta página web."
@@ -326,10 +332,13 @@ de: &DEFAULT_DE
     section: Leistungen
     list:
       - title: "Servicio de Catering"
-        desc: "Lleva un toque dulce a tus eventos con nuestras bandejas de postres."
+        desc: "Lleva un toque dulce a tus eventos con nuestras bandejas de postres.  
+        Puede hacer su pedido en línea utilizando nuestro número de WhatsApp:"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Pasteles Personalizados"
+        desc: "Ofrecemos pasteles totalmente personalizados para cualquier ocasión. Elige el sabor, el diseño y los ingredientes según tus preferencias.  
+        Si tienes alergias o restricciones alimentarias, podemos adaptarlo para que sea completamente seguro para ti.  
+        ¡Haz tu pedido y celebra con un pastel único!"
         icon: fas fa-laptop
       - title: "[Markdown](https://de.wikipedia.org/wiki/Markdown)"
         desc: "Hier können Sie etwas mit **Markdown** einfügen."
