@@ -7,7 +7,7 @@ alt: Bandeja con galletas, cupcakes y mini tartas
 caption:
   title: Bandejas de Postres
   subtitle: Catering Dulce
-  thumbnail: ../assets/img/bandeja.jpg
+  thumbnail: ../assets/img/bandeja1.jpg
 ---
 
 Una bandeja surtida con galletas decoradas, cupcakes y mini tartas de frutas. **Personalizamos cada bandeja** según tus gustos y el tema del evento, perfecta para bodas, cumpleaños y reuniones.  

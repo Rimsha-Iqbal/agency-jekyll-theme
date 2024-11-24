@@ -35,7 +35,7 @@ en: &DEFAULT_EN
     title: "Portfolio"
     text: "Aquí te mostramos algunas de nuestras creaciones más destacadas. Desde pasteles personalizados hasta postres para eventos, cada uno de nuestros productos está hecho con cariño y atención al detalle."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   timeline:
     title: "Timeline"

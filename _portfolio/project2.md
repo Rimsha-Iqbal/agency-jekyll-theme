@@ -1,19 +1,19 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+title: Pan Artesanal Especial
+subtitle: Fresco, rústico y delicioso.
+image: ../img/artesenal.jpg
+alt: Pan rústico de masa madre  
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  title: Panes Artesanales
+  subtitle: Recién Horneados
+  thumbnail: ../assets/img/artesenal1.jpg
 ---
 
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Este pan rústico de masa madre es uno de nuestros favoritos. **Hecho con fermentación lenta** para un sabor intenso y textura ideal, perfecto para acompañar tus comidas o disfrutarlo con una taza de café.
 
 {:.list-inline}
 
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Date: Septiembre 2024
+- Client: Pedidos Generales
+- Category: Panadería Artesanal
