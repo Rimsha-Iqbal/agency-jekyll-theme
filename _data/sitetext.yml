@@ -170,8 +170,8 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   header:
-    title: ¡Bienvenido a nuestro Estudio!
-    text: Es un placer conocerle
+    title: Bienvenido a Tun Tun Panadería
+    text: Endulzando tus momentos, un pastel a la vez
     button: Ver más
     buttonlink: "#servicios"
 
@@ -325,8 +325,8 @@ es-CO:
 # -----------------
 de: &DEFAULT_DE
   header:
-    title: Willkommen auf unserer Webseite!
-    text: Schön das Sie hier sind!
+    title: Bienvenido a Tun Tun Panadería
+    text: Endulzando tus momentos, un pastel a la vez
     button: Mehr erfahren
     buttonlink: "#Angebote"
 
