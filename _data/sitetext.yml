@@ -90,15 +90,14 @@ en: &DEFAULT_EN
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
 
-  team:
-    title: "Nuestro Equipo"
+  title: "Nuestro Equipo"
     text: "Conoce a las personas detrás de nuestra pasión."
-    subtext: "Somos una familia que comparte la misma misión: endulzar tus momentos especiales con productos hechos con amor y dedicación"
-    section: Equipo
+    subtext: "Somos una familia que comparte la misma misión: endulzar tus momentos especiales con productos hechos con amor y dedicación."" 
+    section: Euipo
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Rimsha Iqbal"
+        role: "Panadero Principal/Pastelero"
+        image: assets/img/team/1.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -106,8 +105,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "María López"
+        role: "Decorador de Pasteles"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -116,9 +115,9 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+      - name: "Carlos Pérez"
+        role: "Panadero Asistente"
+        image: assets/img/team/3.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -247,15 +246,14 @@ es: &DEFAULT_ES
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
 
-  team:
-    title: "Nuestro Equipo"
+  title: "Nuestro Equipo"
     text: "Conoce a las personas detrás de nuestra pasión."
-    subtext: "Somos una familia que comparte la misma misión: endulzar tus momentos especiales con productos hechos con amor y dedicación"
-    section: Equipo
+    subtext: "Somos una familia que comparte la misma misión: endulzar tus momentos especiales con productos hechos con amor y dedicación."" 
+    section: Euipo
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Rimsha Iqbal"
+        role: "Panadero Principal/Pastelero"
+        image: assets/img/team/1.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -263,8 +261,8 @@ es: &DEFAULT_ES
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "María López"
+        role: "Decorador de Pasteles"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -273,9 +271,9 @@ es: &DEFAULT_ES
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+      - name: "Carlos Pérez"
+        role: "Panadero Asistente"
+        image: assets/img/team/3.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -409,7 +407,7 @@ de: &DEFAULT_DE
     people:
       - name: "Rimsha Iqbal"
         role: "Panadero Principal/Pastelero"
-        image: ../assets/img/team/1.png
+        image: assets/img/team/1.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -429,7 +427,7 @@ de: &DEFAULT_DE
             icon: fab fa-linkedin-in
       - name: "Carlos Pérez"
         role: "Panadero Asistente"
-        image: ../assets/img/team/3.jpg
+        image: assets/img/team/3.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
