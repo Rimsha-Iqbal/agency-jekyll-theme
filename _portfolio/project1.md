@@ -1,19 +1,19 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: Bandeja de Postres para Eventos
+subtitle: Bandeja de Postres para Eventos.
+image: ../img/bandeja.jpg
+alt: Bandeja con galletas, cupcakes y mini tartas
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  title: Bandejas de Postres
+  subtitle: Catering Dulce
+  thumbnail: ../assets/img/bandeja.jpg
 ---
 
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+Una bandeja surtida con galletas decoradas, cupcakes y mini tartas de frutas. **Personalizamos cada bandeja** según tus gustos y el tema del evento, perfecta para bodas, cumpleaños y reuniones.  
 
 {:.list-inline}
 
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: Diciembre 2023
+- Client: Mariana y Carlos
+- Category: Catering Dulce

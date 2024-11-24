@@ -5,8 +5,8 @@ caption: #what displays in the portfolio grid:
   thumbnail: ../assets/img/cake.jpg
   
 #what displays when the item is clicked:
-title: Pastel de Cumpleaños Personalizado
-subtitle: "Diseñado a tu medida para celebraciones especiales."
+title: Pasteles Personalizados
+subtitle: "Celebraciones Especiales"
 image: ../assets/img/cake1.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: "Pastel decorado con crema y velas"
 
