@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Bienvenido a Tun Tun Panadería
-    text: Endulzando tus momentos, un pastel a la vez
+    text: De nuestra panadería a tu corazón
     button: Tell Me More
     buttonlink: "#services"
 
@@ -90,15 +90,14 @@ en: &DEFAULT_EN
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
 
-  team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
+  title: "Nuestro Equipo"
+    text: "Conoce a las personas detrás de nuestra pasión."
+    subtext: "Somos una familia que comparte la misma misión: endulzar tus momentos especiales con productos hechos con amor y dedicación."" 
+    section: Euipo
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Rimsha Iqbal"
+        role: "Panadero Principal/Pastelero"
+        image: ../assets/img/team/1.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -106,8 +105,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "María López"
+        role: "Decorador de Pasteles"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -116,9 +115,9 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+      - name: "Carlos Pérez"
+        role: "Panadero Asistente"
+        image: ../assets/img/team/3.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -169,7 +168,7 @@ en-AU:
 es: &DEFAULT_ES
   header:
     title: Bienvenido a Tun Tun Panadería
-    text: Endulzando tus momentos, un pastel a la vez
+    text: De nuestra panadería a tu corazón
     button: Ver más
     buttonlink: "#servicios"
 
@@ -247,15 +246,14 @@ es: &DEFAULT_ES
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
 
-  team:
-    title: "NUESTRO INCREÍBLE EQUIPO"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: equipo
+  title: "Nuestro Equipo"
+    text: "Conoce a las personas detrás de nuestra pasión."
+    subtext: "Somos una familia que comparte la misma misión: endulzar tus momentos especiales con productos hechos con amor y dedicación."" 
+    section: Euipo
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Rimsha Iqbal"
+        role: "Panadero Principal/Pastelero"
+        image: ../assets/img/team/1.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -263,8 +261,8 @@ es: &DEFAULT_ES
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "María López"
+        role: "Decorador de Pasteles"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -273,9 +271,9 @@ es: &DEFAULT_ES
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+      - name: "Carlos Pérez"
+        role: "Panadero Asistente"
+        image: ../assets/img/team/3.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -322,7 +320,7 @@ es-CO:
 de: &DEFAULT_DE
   header:
     title: Bienvenido a Tun Tun Panadería
-    text: Endulzando tus momentos, un pastel a la vez
+    text: De nuestra panadería a tu corazón
     button: Mehr erfahren
     buttonlink: "#Angebote"
 
@@ -402,14 +400,14 @@ de: &DEFAULT_DE
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "Unser großartiges Team"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: Team
+    title: "Nuestro Equipo"
+    text: "Conoce a las personas detrás de nuestra pasión."
+    subtext: "Somos una familia que comparte la misma misión: endulzar tus momentos especiales con productos hechos con amor y dedicación."" 
+    section: Euipo
     people:
-      - name: "Kay Garland"
-        role: "Chef-Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Rimsha Iqbal"
+        role: "Panadero Principal/Pastelero"
+        image: ../assets/img/team/1.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -417,8 +415,8 @@ de: &DEFAULT_DE
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Chef der Werbeabteilung"
+      - name: "María López"
+        role: "Decorador de Pasteles"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -427,9 +425,9 @@ de: &DEFAULT_DE
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Chef-Programmiererin"
-        image: assets/img/team/500x500.jpg
+      - name: "Carlos Pérez"
+        role: "Panadero Asistente"
+        image: ../assets/img/team/3.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
