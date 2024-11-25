@@ -104,7 +104,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Larry Parker"
-        role: "Lead Marketer"
+        role: "Panadero"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -258,7 +258,7 @@ es: &DEFAULT_ES
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Larry Parker"
-        role: "Lead Marketer"
+        role: "Panadero"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -409,7 +409,7 @@ de: &DEFAULT_DE
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Larry Parker"
-        role: "Chef der Werbeabteilung"
+        role: "Panadero"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
