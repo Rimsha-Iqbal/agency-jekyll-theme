@@ -166,7 +166,7 @@ en-AU:
 es: &DEFAULT_ES
   header:
     title: Bienvenido a Tun Tun Panadería
-    text: Endulzando tus momentos, un pastel a la vez
+    text: De nuestra panadería a tu corazón
     button: Ver más
     buttonlink: "#servicios"
 
@@ -316,13 +316,13 @@ es-CO:
 de: &DEFAULT_DE
   header:
     title: Bienvenido a Tun Tun Panadería
-    text: Endulzando tus momentos, un pastel a la vez
+    text: De nuestra panadería a tu corazón
     button: Mehr erfahren
     buttonlink: "#Angebote"
 
   services:
     title: "Leistungen"
-    text:  De nuestra panadería a tu corazón
+    text:  "Descubre lo que ofrecemos"
     section: Leistungen
     list:
       - title: "Servicio de Catering"
