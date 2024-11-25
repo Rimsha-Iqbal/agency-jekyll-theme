@@ -95,7 +95,7 @@ en: &DEFAULT_EN
     people:
       - name: "Kay Garland"
         role: "Decorador de Pasteles"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/4.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -249,7 +249,7 @@ es: &DEFAULT_ES
     people:
       - name: "Kay Garland"
         role: "Decorador de Pasteles"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/4.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -400,7 +400,7 @@ de: &DEFAULT_DE
     people:
       - name: "Kay Garland"
         role: "Decorador de Pasteles"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/4.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
