@@ -26,7 +26,7 @@ en: &DEFAULT_EN
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Pasteles Personalizados"
         desc: "Ofrecemos pasteles totalmente personalizados para cualquier ocasión. Elige el sabor, el diseño y los ingredientes según tus preferencias. Si tienes alergias o restricciones alimentarias, podemos adaptarlo para que sea completamente seguro para ti. ¡Haz tu pedido y celebra con un pastel único!"
-        icon: fas fa-laptop
+        icon: fas fa-cookie
       - title: "[lista de tipo de pasteles](https://en.wikipedia.org/wiki/List_of_pastries)"
         desc: "Puedes hacerte una idea sobre repostería en esta página web."
         icon: fab fa-markdown
@@ -180,7 +180,7 @@ es: &DEFAULT_ES
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Pasteles Personalizados"
         desc: "Ofrecemos pasteles totalmente personalizados para cualquier ocasión. Elige el sabor, el diseño y los ingredientes según tus preferencias. Si tienes alergias o restricciones alimentarias, podemos adaptarlo para que sea completamente seguro para ti. ¡Haz tu pedido y celebra con un pastel único!"
-        icon: fas fa-laptop
+        icon: fas fa-cookie
       - title: "[lista de tipo de pasteles](https://en.wikipedia.org/wiki/List_of_pastries)"
         desc: "Puedes hacerte una idea sobre repostería en esta página web."
         icon: fab fa-markdown
@@ -330,7 +330,7 @@ de: &DEFAULT_DE
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
+        icon: fas fa-cookie
       - title: "[Markdown](https://de.wikipedia.org/wiki/Markdown)"
         desc: "Hier können Sie etwas mit **Markdown** einfügen."
         icon: fab fa-markdown
