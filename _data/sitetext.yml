@@ -93,16 +93,16 @@ en: &DEFAULT_EN
     subtext: "Somos una familia que comparte la misma misión: endulzar tus momentos especiales con productos hechos con amor y dedicación. "
     section: team
     people:
-      #- name: "Kay Garland"
-       # role: "Decorador de Pasteles"
-        #image: assets/img/team/1.jpg
-        #social:
-         # - url: https://twitter.com
-          #  icon: fab fa-twitter
-          #- url: https://facebook.com
-           # icon: fab fa-facebook-f
-          #- url: https://linkedin.com
-           # icon: fab fa-linkedin-in
+      - name: "Kay Garland"
+        role: "Decorador de Pasteles"
+        image: assets/img/team/1.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
       - name: "Larry Parker"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
@@ -246,17 +246,17 @@ es: &DEFAULT_ES
     text: "Conoce a las personas detrás de nuestra pasión."
     subtext: "Somos una familia que comparte la misma misión: endulzar tus momentos especiales con productos hechos con amor y dedicación. "
     section: equipo
-    #people:
-     # - name: "Kay Garland"
-      #  role: "Decorador de Pasteles"
-       # image: assets/img/team/1.jpg
-        #social:
-         # - url: https://twitter.com
-          #  icon: fab fa-twitter
-          #- url: https://facebook.com
-           # icon: fab fa-facebook-f
-          #- url: https://linkedin.com
-           # icon: fab fa-linkedin-in
+    people:
+      - name: "Kay Garland"
+        role: "Decorador de Pasteles"
+        image: assets/img/team/1.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
       - name: "Larry Parker"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
@@ -398,16 +398,16 @@ de: &DEFAULT_DE
     subtext: "Somos una familia que comparte la misma misión: endulzar tus momentos especiales con productos hechos con amor y dedicación. "
     section: Team
     people:
-      #- name: "Kay Garland"
-      #  role: "Decorador de Pasteles"
-       # image: assets/img/team/1.jpg
-        #social:
-         # - url: https://twitter.com
-          #  icon: fab fa-twitter
-          #- url: https://facebook.com
-           # icon: fab fa-facebook-f
-          #- url: https://linkedin.com
-           # icon: fab fa-linkedin-in
+      - name: "Kay Garland"
+        role: "Decorador de Pasteles"
+        image: assets/img/team/1.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
       - name: "Larry Parker"
         role: "Chef der Werbeabteilung"
         image: assets/img/team/2.jpg
