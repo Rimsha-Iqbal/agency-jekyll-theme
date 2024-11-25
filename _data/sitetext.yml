@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-cookie
       - title: "[lista de tipo de pasteles](https://en.wikipedia.org/wiki/List_of_pastries)"
         desc: "Puedes hacerte una idea sobre repostería en esta página web."
-        icon: fas fa-croissant
+        icon: fab fa-markdown
 
   portfolio:
     title: "Portafolio"
@@ -183,7 +183,7 @@ es: &DEFAULT_ES
         icon: fas fa-cookie
       - title: "[lista de tipo de pasteles](https://en.wikipedia.org/wiki/List_of_pastries)"
         desc: "Puedes hacerte una idea sobre repostería en esta página web."
-        icon: fas fa-croissant
+        icon: fab fa-markdown
 
   portfolio:
     title: "Portafolio"
@@ -333,7 +333,7 @@ de: &DEFAULT_DE
         icon: fas fa-cookie
       - title: "[lista de tipo de pasteles](https://en.wikipedia.org/wiki/List_of_pastries)"
         desc: "Puedes hacerte una idea sobre repostería en esta página web."
-        icon: fas fa-croissant
+        icon: fab fa-markdown
 
   portfolio:
     title: "Portafolio"
