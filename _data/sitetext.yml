@@ -3,7 +3,7 @@
 #
 # Configuration: Add to _config.yml
 # locale: "en-US"  [YOUR PREFERRED LOCALE]
-#
+# 
 # How to use:
 # {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
 
