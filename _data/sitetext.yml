@@ -400,7 +400,7 @@ de: &DEFAULT_DE
     people:
       - name: "Kay Garland"
         role: "Chef-Designer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
